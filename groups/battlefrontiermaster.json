@@ -20,11 +20,6 @@
     "chargedMoves": ["BLAST_BURN","DRAGON_CLAW"]
   },
   {
-    "speciesId": "charizard_mega_y",
-    "fastMove": "DRAGON_BREATH",
-    "chargedMoves": ["BLAST_BURN","AIR_CUTTER"]
-  },
-  {
     "speciesId": "dialga_origin",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["ROAR_OF_TIME","IRON_HEAD"]

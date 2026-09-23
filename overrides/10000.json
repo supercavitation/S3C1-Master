@@ -124,12 +124,6 @@
     "weight": 1
   },
   {
-    "speciesId": "charizard_mega_y",
-    "fastMove": "DRAGON_BREATH",
-    "chargedMoves": ["BLAST_BURN","AIR_CUTTER"],
-    "weight": 1
-  },
-  {
     "speciesId": "charizard_shadow",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["BLAST_BURN","DRAGON_CLAW"],
@@ -167,8 +161,7 @@
     "speciesId": "dialga_origin",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["ROAR_OF_TIME","IRON_HEAD"],
-    "weight": 1,
-    "editorNotes": "Origin Dialga is a signature presence in Master League, strictly better than its regular forme. Iron Head is a weaker attack, so Dialga is more dependent on its nuke, Roar of Time, than Palkia is. Dialga's struggles against Zacian keep it from being as dominating as its predecessor."
+    "weight": 1
   },
   {
     "speciesId": "dondozo",
@@ -448,8 +441,7 @@
     "speciesId": "ho_oh",
     "fastMove": "INCINERATE",
     "chargedMoves": ["BRAVE_BIRD","SACRED_FIRE"],
-    "weight": 1,
-    "editorNotes": "Ho-oh is a vital anti-meta presence to combat Zacian and other Steel or Fairy types. Its high-energy attacks can threaten most Pokemon, but some may find its playstyle to be too cumbersome. It also faces significant challenges against Palkia."
+    "weight": 1
   },
   {
     "speciesId": "hydreigon",
@@ -508,8 +500,7 @@
     "speciesId": "kyogre",
     "fastMove": "WATERFALL",
     "chargedMoves": ["AVALANCHE","ORIGIN_PULSE"],
-    "weight": 1,
-    "editorNotes": "With the Waterfall rework, Kyogre has regained its play as one of the best neutral Pokemon in the meta. Its incredible matchup advantage against Zacian helps, too, and has allowed Kyogre to become a meta staple once more."
+    "weight": 1
   },
   {
     "speciesId": "kyogre_shadow",
@@ -521,15 +512,13 @@
     "speciesId": "kyurem_black",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["FREEZE_SHOCK","FUSION_BOLT"],
-    "weight": 1,
-    "editorNotes": "Black and White Kyurem have declined since the introduction of Zacian, but remain powerful picks. They capitalize on their amazing stats, solid pacing, and powerful signature attacks. Black Kyurem is generally the more flexible of the two but has fewer domineering matchups."
+    "weight": 1
   },
   {
     "speciesId": "kyurem_white",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["FUSION_FLARE","ICE_BURN"],
-    "weight": 1,
-    "editorNotes": "Black and White Kyurem have declined since the introduction of Zacian, but remain powerful picks. They capitalize on their amazing stats, solid pacing, and powerful signature attacks. White Kyurem is generally the less flexible of the two, but poses a stronger threat to Zacian and Palkia."
+    "weight": 1
   },
   {
     "speciesId": "landorus_therian",
@@ -553,15 +542,13 @@
     "speciesId": "lugia",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["AEROBLAST","EARTH_POWER"],
-    "weight": 1,
-    "editorNotes": "Lugia scores well in simulations thanks to its incredible stats and neutral matchup profile. However, its low offensive power and its struggles against Zacian and other Steel types reduce its effectiveness in the metagame."
+    "weight": 1
   },
   {
     "speciesId": "lugia_shadow",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["AEROBLAST","EARTH_POWER"],
-    "weight": 1,
-    "editorNotes": "Lugia scores well in simulations thanks to its incredible stats and neutral matchup profile. However, its low offensive power and its struggles against Zacian and other Steel types reduce its effectiveness in the metagame."
+    "weight": 1
   },
   {
     "speciesId": "lunala",
@@ -623,8 +610,7 @@
     "speciesId": "metagross",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["METEOR_MASH","EARTHQUAKE"],
-    "weight": 1,
-    "editorNotes": "The recipient of numerous buffs in recent seasons, Metagross has firmly established itself as the top Steel/Psychic type in the Master League."
+    "weight": 1
   },
   {
     "speciesId": "metagross_shadow",
@@ -695,8 +681,7 @@
     "speciesId": "necrozma_dawn_wings",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["DARK_PULSE","MOONGEIST_BEAM"],
-    "weight": 1,
-    "editorNotes": "A buff to Dark Pulse and nerf to Shadow Ball improve its ability to compete with Lunala for the spot, but Necrozma's lesser bulk and reduced consistency leave it positioned awkwardly compared to its unfused rival."
+    "weight": 1
   },
   {
     "speciesId": "necrozma_dusk_mane",
@@ -730,8 +715,7 @@
     "speciesId": "palkia_origin",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["AQUA_TAIL","SPACIAL_REND"],
-    "weight": 1,
-    "editorNotes": "Origin Palkia is one of the definitive Master League Pokemon. It has everything you could ask for - stats, speed, power, and great typing, making it a top pick by most categories. Origin Forme is strictly better than Palkia's regular forme. If you don't have Spacial Rend, Fire Blast is a viable option to hit Zacian and other Steel types."
+    "weight": 1
   },
   {
     "speciesId": "palkia_shadow",
@@ -771,8 +755,7 @@
     "speciesId": "primarina",
     "fastMove": "CHARM",
     "chargedMoves": ["DISARMING_VOICE","HYDRO_CANNON"],
-    "weight": 1,
-    "editorNotes": "Primarina's stats may be eclipsed by its Legendary opponents, but it serves a vital and accessible anti-meta role against Palkia. Primarina depends on shields for success, so look to pair it with stat monsters who can absorb hits on its behalf."
+    "weight": 1
   },
   {
     "speciesId": "raikou",
@@ -917,8 +900,7 @@
     "speciesId": "solgaleo",
     "fastMove": "FIRE_SPIN",
     "chargedMoves": ["PSYCHIC_FANGS","IRON_HEAD"],
-    "weight": 1,
-    "editorNotes": "Solgaleo's Steel typing and unique offenses give it an intriguing place in the metagame. However, its lack of closing power is a serious hindrance, and it's more likely to consume more shields than it earns. It can work as an anti-meta pick and on alignment heavy teams, but it lends a difficult win-more playstyle."
+    "weight": 1
   },
   {
     "speciesId": "stakataka",
@@ -1012,15 +994,13 @@
     "speciesId": "ursaluna",
     "fastMove": "SCRATCH",
     "chargedMoves": ["SWIFT","HIGH_HORSEPOWER"],
-    "weight": 1,
-    "editorNotes": "With buffs to High Horsepower and its newly received Scratch, Ursaluna looks poised to be a force in the Master League. However, its reliance on baits still keeps from becoming an overwhelming presence."
+    "weight": 1
   },
   {
     "speciesId": "ursaluna_shadow",
     "fastMove": "SCRATCH",
     "chargedMoves": ["SWIFT","HIGH_HORSEPOWER"],
-    "weight": 1,
-    "editorNotes": "With buffs to High Horsepower and its newly received Scratch, Ursaluna looks poised to be a force in the Master League. However, its reliance on baits still keeps from becoming an overwhelming presence."
+    "weight": 1
   },
   {
     "speciesId": "urshifu_rapid_strike",
@@ -1083,8 +1063,7 @@
     "speciesId": "zacian_crowned_sword",
     "fastMove": "METAL_CLAW",
     "chargedMoves": ["CLOSE_COMBAT","BEHEMOTH_BLADE"],
-    "weight": 1,
-    "editorNotes": "Crowned Forme Zacian boasts one of the best defensive typings in the game and stats which rival those of Mega Evolutions. It's a definitive Master League Pokemon of the current era, alongside Palkia. It's only held back by slower pacing and widely resisted Steel offenses, but neither of these put a dent in its dominating presence."
+    "weight": 1
   },
   {
     "speciesId": "zacian_hero",
@@ -1096,8 +1075,7 @@
     "speciesId": "zamazenta_crowned_shield",
     "fastMove": "ICE_FANG",
     "chargedMoves": ["CLOSE_COMBAT","BEHEMOTH_BASH"],
-    "weight": 1,
-    "editorNotes": "While a powerhouse in its own right, Zamazenta is held back by Zacian's meta-warping presence, falling to most of Zacian's counters in addition to losing the mirror."
+    "weight": 1
   },
   {
     "speciesId": "zamazenta_hero",
