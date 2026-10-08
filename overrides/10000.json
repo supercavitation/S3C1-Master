@@ -1101,6 +1101,12 @@
     "weight": 1
   },
   {
+    "speciesId": "zekrom_shadow",
+    "fastMove": "DRAGON_BREATH",
+    "chargedMoves": ["OUTRAGE","FUSION_BOLT"],
+    "weight": 1
+  },
+  {
     "speciesId": "zygarde",
     "fastMove": "DRAGON_TAIL",
     "chargedMoves": ["OUTRAGE","BULLDOZE"],
