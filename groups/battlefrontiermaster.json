@@ -123,10 +123,5 @@
     "speciesId": "zekrom",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["OUTRAGE","FUSION_BOLT"]
-  },
-  {
-    "speciesId": "zygarde_complete",
-    "fastMove": "DRAGON_TAIL",
-    "chargedMoves": ["CRUNCH","BULLDOZE"]
   }
 ]
