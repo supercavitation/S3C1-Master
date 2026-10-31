@@ -112,6 +112,11 @@
     "weight": 1
   },
   {
+    "speciesId": "chandelure_mega",
+    "chargedMoves": ["SHADOW_BALL", "ENERGY_BALL"],
+    "weight": 1
+  },
+  {
     "speciesId": "charizard",
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["BLAST_BURN","AIR_CUTTER"],
